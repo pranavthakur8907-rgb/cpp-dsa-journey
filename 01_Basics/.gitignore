@@ -1,8 +1,0 @@
-.vscode/settings.json
-.vscode/tasks.json
-.vscode/launch.json
-
-*.exe
-*.out
-
-tempCodeRunnerFile.cpp
